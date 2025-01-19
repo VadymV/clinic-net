@@ -1,7 +1,5 @@
 # Clinic-NET
 
-**In progress. Submitted to NeuroImage: Clinical.**
-
 Explainable Differential Diagnosis of Dementia using Self-supervised Learning.
 The proposed method is based on Nearest-Neighbour Contrastive Learning of Visual
 Representations (NNCLR) [1] using ConvNeXt Tiny [2] with 7x7 filter kernels.

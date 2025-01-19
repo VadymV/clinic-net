@@ -132,12 +132,6 @@ training/evaluation and load specific dataset
   - features dimension from ConvNeXt Tiny CNN model: 768
   - classifier block that is trained: normalisation layer, flat operation, linear layer
 
-- Feature maps of 22 convolutional layers (subject ADNI002S0729 diagnosed with AD, session M60):
-![Feature maps](./images/feature_maps.gif)
-
-- t-SNE visualisation of features learned by NNCLR (train set):
-![tSNE maps](./images/tsne_2D.png)
-
 - Attributions created using Integrated Gradients of a patient diagnosed with Alzheimer's Disease: green (positive atttributions), red (negative attributions)
 
 ![ig positive](./images/attributions_ig_positive_AD.gif) |  ![ig negative](./images/attributions_ig_negative_AD.gif)

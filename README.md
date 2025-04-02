@@ -8,6 +8,7 @@ The following image visualizes the whole architecture:
 
 ![Architecture](./images/architecture.png)
 
+The model weights are available at https://osf.io/6mqsy/files/osfstorage
 ## Repository structure:
 - `configuration` folder contains the YAML file for the configuration
 - `data_processing` folder contains the methods that are used to prepare data for a model
